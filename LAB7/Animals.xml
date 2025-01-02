@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="Pig">
+    <Country>Poland</Country>
+    <HideFromOtherAnimals>true</HideFromOtherAnimals>
+    <Name>Hedwig</Name>
+    <WhatAnimal>Pig</WhatAnimal>
+  </Animal>
+  <Animal xsi:type="Cow">
+    <Country>Russia</Country>
+    <HideFromOtherAnimals>true</HideFromOtherAnimals>
+    <Name>Zor'ka</Name>
+    <WhatAnimal>Cow</WhatAnimal>
+  </Animal>
+  <Animal xsi:type="Lion">
+    <Country>Canada</Country>
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <Name>Ehrardt</Name>
+    <WhatAnimal>Lion</WhatAnimal>
+  </Animal>
+</ArrayOfAnimal>

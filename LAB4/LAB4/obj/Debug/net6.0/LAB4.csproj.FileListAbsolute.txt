@@ -1,0 +1,14 @@
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.GeneratedMSBuildEditorConfig.editorconfig
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.AssemblyInfoInputs.cache
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.AssemblyInfo.cs
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.csproj.CoreCompileInputs.cache
+E:\labsCsharp\LAB4\LAB4\bin\Debug\net6.0\LAB4.exe
+E:\labsCsharp\LAB4\LAB4\bin\Debug\net6.0\LAB4.deps.json
+E:\labsCsharp\LAB4\LAB4\bin\Debug\net6.0\LAB4.runtimeconfig.json
+E:\labsCsharp\LAB4\LAB4\bin\Debug\net6.0\LAB4.dll
+E:\labsCsharp\LAB4\LAB4\bin\Debug\net6.0\LAB4.pdb
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.dll
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\refint\LAB4.dll
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.pdb
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\LAB4.genruntimeconfig.cache
+E:\labsCsharp\LAB4\LAB4\obj\Debug\net6.0\ref\LAB4.dll

@@ -1,0 +1,37 @@
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.deps.json
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.dll
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/bin/Debug/net6.0/TicketsLibrary.pdb
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.AssemblyReference.cache
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfoInputs.cache
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.AssemblyInfo.cs
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.dll
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/refint/TicketsLibrary.dll
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/TicketsLibrary.pdb
+/Users/ksenia55/Projects/C-lab-10/TicketsLibrary/obj/Debug/net6.0/ref/TicketsLibrary.dll
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.deps.json
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.dll
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfoInputs.cache
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfo.cs
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.dll
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\refint\TicketsLibrary.dll
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\mi\Downloads\Telegram Desktop\C-lab-10\C-lab-10\TicketsLibrary\obj\Debug\net6.0\ref\TicketsLibrary.dll
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.deps.json
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.dll
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfoInputs.cache
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.AssemblyInfo.cs
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.dll
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\refint\TicketsLibrary.dll
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.pdb
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\ref\TicketsLibrary.dll
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\bin\Debug\net6.0\TicketsLibrary.runtimeconfig.json
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.csproj.AssemblyReference.cache
+C:\Users\rybal\OneDrive\Рабочий стол\mein beliebtes Uni\CBeer\labscsharp\lab_10-main\lab_10-main\TicketsLibrary\obj\Debug\net6.0\TicketsLibrary.genruntimeconfig.cache
